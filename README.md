@@ -4,7 +4,7 @@ A robust hardware verification architecture designed to automate the testing and
 
 ---
 
-### Engineering Architecture
+### System Architecture
 
 The **ram_system_design** project is a specialized hardware controller that orchestrates a closed-loop data lifecycle. It is built to ensure that every bit written to memory is precisely what is read back, even under high-speed operation.
 
@@ -32,7 +32,7 @@ The **ram_system_design** project is a specialized hardware controller that orch
 
 ---
 
-### Technical Innovation
+### Features
 
 #### **Dynamic Fault Simulation (Error Injection)**
 
