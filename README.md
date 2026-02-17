@@ -74,4 +74,5 @@ This subsystem provides a scalable template for any FPGA project requiring high-
 ---
 
 **Engineer:** Korrapolu Eswar Adithya
+
 **Environment:** Xilinx Vivado (2024.1), Verilog HDL, Git
