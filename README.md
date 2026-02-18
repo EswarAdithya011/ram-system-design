@@ -44,7 +44,7 @@ The design handles the inherent latency of the Block RAM (1 clock cycle for read
 
 #### **Hardware Configuration**
 
-* **`i_start_system` / `i_stop_system**`: Physical control pins that allow for one-shot frame testing or continuous diagnostic loops.
+* **`i_start_system` / `i_stop_system`**: Physical control pins that allow for one-shot frame testing or continuous diagnostic loops.
 * **`i_error_en`**: A hardware switch to toggle the error injection engine for validation testing.
 
 ---
